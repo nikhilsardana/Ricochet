@@ -1,5 +1,5 @@
 # Ricochet
 A Minimalist Android Game
 
-![Ricochet Homescreen](/screenshots/home.png =250x)
-![Ricochet Levels screen](/screenshots/levels.png =250x)
+<img src="screenshots/home.png" width="200">
+<img src="screenshots/levels.png" width="200">
