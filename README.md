@@ -10,7 +10,7 @@ The game is simple! There's a ball in the middle of the screen, which you want t
 Don't touch the spikes!</br>
 Swipe the screen to create lines so the ball "ricochets" off, changing directions.
 <img src="screenshots/ballandstick.png" width="400">
-<img src="screenshots/gameplay.gif" width="400"></br>
-The different line colors correspond to different speeds.
-Some colors are faster than others, and the effects multiply and can get crazy fast!
-You have ten swipes per level, so work fast!
+<img src="screenshots/gameplay.gif" width="400"></br></br>
+The different line colors correspond to different speeds.</br>
+Some colors are faster than others, and the effects multiply and can get crazy fast!</br>
+You have ten swipes per level, so work quickly!
