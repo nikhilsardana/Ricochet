@@ -1,4 +1,5 @@
 # Ricochet
 A Minimalist Android Game
 
-This game is unfinished, and currently only features 20 levels.
+![Ricochet Homescreen](/screenshots/home.png?raw=true "Homescreen")
+![Ricochet Levels screen](/screenshots/levels.png?raw=true "Levels Screen")
